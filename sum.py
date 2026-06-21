@@ -40,25 +40,25 @@
 # print(haroon)
 # print(type(haroon))
 # print(len(haroon))
-student =[
-    {"id": 101, "name": "nabi", "class": "l2th", "roll_number": 1, "div": "A" },
-    {"id": 102, "name": "haroon", "class": "10th", "roll_number": 2, "div": "B"},
-    {"id": 103, "name": "Abrar", "class": "11th", "roll_number": 3, "div": "c"},
-    {"id": 104, "name": "ansari", "class": "9th", "roll_number": 4, "div": "d"},
-    {"id": 105, "name": "alwahab", "class": "13th", "roll_number": 5, "div": "r"},
-    {"id": 106, "name": "alkahar", "class": "8th", "roll_number": 6, "div": "B"}
+# student =[
+#     {"id": 101, "name": "nabi", "class": "l2th", "roll_number": 1, "div": "A" },
+#     {"id": 102, "name": "haroon", "class": "10th", "roll_number": 2, "div": "B"},
+#     {"id": 103, "name": "Abrar", "class": "11th", "roll_number": 3, "div": "c"},
+#     {"id": 104, "name": "ansari", "class": "9th", "roll_number": 4, "div": "d"},
+#     {"id": 105, "name": "alwahab", "class": "13th", "roll_number": 5, "div": "r"},
+#     {"id": 106, "name": "alkahar", "class": "8th", "roll_number": 6, "div": "B"}
 
-]
-# print(student[1]["class"]["div"])
-print(student[2]["name"], student[2]["class"], student [2]["div"])
-print(student[3]["name"], student[3]["class"], student [3]["div"],student[3]["id"])
-print(student[5]["name"], student[2]["class"], student [1]["div"],student[4]["id"])
+# ]
+# # print(student[1]["class"]["div"])
+# print(student[2]["name"], student[2]["class"], student [2]["div"])
+# print(student[3]["name"], student[3]["class"], student [3]["div"],student[3]["id"])
+# print(student[5]["name"], student[2]["class"], student [1]["div"],student[4]["id"])
 
 
 ai_data = {
     "hello":"hey!  how can i help you?",
     "hi":"hello there!  ",
-    "what is python":,"python is a powerful programing language used for apps,AI,data  science and more!  ",
+    "what is python":"python is a powerful programing language used for apps,AI,data  science and more!  ",
     "who is elon musk": "is th founder of tesla, spacex and the richest person in the world! ",
     "who is bill gates":"the founder of microsoft,one of richest person in world  ",
     "what is ai":"AI means Artificial Intelligence - machines that can think and learn!  ",

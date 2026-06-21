@@ -7,7 +7,8 @@ ai_data = {
     "what is ai": "AI means Artificial Intelligence - machines that can think and learn!",
     "bye": "Goodbye! Have a great day!",
     "who are you": "I am your Python AI chatbot.",
-    "who is eloon musk" : "Nabi Ahmad Is Software Developer Currently Worked SellSold Company as a fullstack developer"
+    "who nabi" : "Nabi Ahmad Is Software Developer Currently Worked SellSold Company as a fullstack developer",
+    "bye": "Goodbye! Have a great day!"
 }
 
 print("AI Chatbot Activated! type 'exit' to stop.")

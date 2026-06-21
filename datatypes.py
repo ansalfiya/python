@@ -15,4 +15,5 @@ print(type(age))
 print(type(old))
 print(type(a))
 print(type(name))
-print(type(price))
+print(type(pri ce))
+  
