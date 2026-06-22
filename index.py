@@ -83,7 +83,6 @@
 # print(haroon( 12 , 43, "-"))
 # print(haroon( 12 , 43, "*"))
 # print(haroon( 12 , 43, "/"))
-def print_hello():
-   print("hello")
+# def print_hello():
+#    print("hello")
 
-print_hello()
