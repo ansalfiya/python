@@ -78,6 +78,6 @@
 text = "Welcome to the console !!!"
 # text.endswith("to", 5, 10)
 
-print(text.endswith("co",  5, 17))
+print(text.endswith("sole", 0, 22))
 # for index, char in enumerate(text):
 #     print(index, "->", char)
