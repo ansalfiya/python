@@ -63,7 +63,21 @@
 
 # fruit = "Mango"
 
-name = "haroon"
-print(name[0])
-for i in range(len(name)):
-    print(f"Index {i}: {name[i]}")
+# name = "haroon"
+# print(name[0])
+# for i in range(len(name)):
+#     print(f"Index {i}: {name[i]}")
+# a = "haroon what is you name"
+# # print(a [0:-5])
+# nm = "harry haroon"
+# str = "Welcome to the console !!!"
+# str = "Welcome to the console !!!"
+# print(str.endswith("to",  5, 10) )
+# print(str.endswith("end",  1, 22) )
+
+text = "Welcome to the console !!!"
+# text.endswith("to", 5, 10)
+
+print(text.endswith("sole", 0, 22))
+# for index, char in enumerate(text):
+#     print(index, "->", char)
