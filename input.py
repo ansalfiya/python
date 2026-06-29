@@ -46,11 +46,11 @@
 # print("the value of x and y : ")
 # name = 'haroon'
 # print("hello word ",name)
-# student = '''he said.  i want to eat an "apple" \n you want to eat food \n you never skip your food'''
-# print(student[0])
-# print("lets use a for loop i charecter \n")
-# for charecter in student:
-#   print(charecter)
+student = '''he said.  i want to eat an "apple" \n you want to eat food \n you never skip your food'''
+print(student[0])
+print("lets use a for loop i charecter \n")
+for charecter in student:
+  print(charecter)
 # for charecter in name:
 #    print(charecter)
 # print(student[0:6])
